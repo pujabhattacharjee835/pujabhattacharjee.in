@@ -39,3 +39,13 @@ letter-spacing: 0.04em;
 text-align: left;
 
 }
+
+.button{
+  color:#FFC107;
+  height: 59px;
+width: 205px;
+left: 152px;
+top: 532px;
+border-radius: 0px;
+
+}
