@@ -10,4 +10,13 @@ left: 152px;
 top: 143px;
 border-radius: nullpx;
 
+/*typo*/
+
+font-family: Proxima Nova;
+font-size: 60px;
+font-weight: 800;
+line-height: 73px;
+letter-spacing: 0.04em;
+text-align: left;
+
 }
