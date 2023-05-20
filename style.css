@@ -21,7 +21,7 @@ text-align: left;
 
 }
 
-h2,h3{
+h2{
 
   color:#FFC107;
   height: 58px;
@@ -37,6 +37,45 @@ font-weight: 400;
 line-height: 58px;
 letter-spacing: 0.04em;
 text-align: left;
+
+}
+
+h3{
+  height: 33px;
+width: 581px;
+left: 152px;
+top: 304px;
+border-radius: nullpx;
+
+/*typo*/
+
+font-family: Proxima Nova;
+font-size: 24px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+
+/*color*/
+
+position: absolute;
+width: 581px;
+height: 33px;
+left: 152px;
+top: 304px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 139.3%;
+/* or 33px */
+
+
+/* Primary/2 */
+
+color: #E0E0E0;
 
 }
 
