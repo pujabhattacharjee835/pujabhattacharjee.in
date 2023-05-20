@@ -10,6 +10,48 @@ top: 0px;
 
 }
 
+.site{
+  position: absolute;
+left: 4.17%;
+right: 81.6%;
+top: 33.96%;
+bottom: 40.57%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* Primary/2 */
+
+color: #E0E0E0;
+
+}
+
+.portfolio{
+  position: absolute;
+left: 62.36%;
+right: 31.74%;
+top: 33.96%;
+bottom: 40.57%;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+
+/* Primary/2 */
+
+color: #E0E0E0;
+
+}
+
 .container {
   position: absolute;
   top: 50%;
