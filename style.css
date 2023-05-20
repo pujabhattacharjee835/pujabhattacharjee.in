@@ -59,6 +59,27 @@ color: #E0E0E0;
 
 }
 
+h1{
+  position: absolute;
+width: 346px;
+height: 73px;
+left: 152px;
+top: 143px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 73px;
+/* identical to box height */
+
+letter-spacing: 0.04em;
+
+/* Accent/2 */
+
+color: #FFFFFF;
+
+}
 .container {
   position: absolute;
   top: 50%;
