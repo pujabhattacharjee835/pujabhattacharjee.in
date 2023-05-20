@@ -11,6 +11,13 @@ top: 0px;
 }
 
 .site{
+
+  height: 27px;
+width: 205px;
+left: 60px;
+top: 36px;
+border-radius: nullpx;
+
   position: absolute;
 left: 4.17%;
 right: 81.6%;
