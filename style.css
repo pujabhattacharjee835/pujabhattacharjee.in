@@ -79,12 +79,36 @@ color: #E0E0E0;
 
 }
 
-.button{
+#button{
   color:#FFC107;
   height: 59px;
 width: 205px;
 left: 152px;
 top: 532px;
 border-radius: 0px;
+
+}
+
+#work{
+
+  position: absolute;
+width: 711px;
+height: 73px;
+left: calc(50% - 711px/2 - 212.5px);
+top: 955px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+/* identical to box height */
+
+letter-spacing: 0.04em;
+
+/* Accent/2 */
+
+color: #FFFFFF;
+
 
 }
